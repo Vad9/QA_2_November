@@ -1,0 +1,4 @@
+12-02-2019 21:06:54  INFO [pages.LoginPage] : Login page was opened
+12-02-2019 21:06:54  INFO [libs.ActionsWithOurElements] : Studentwas inputted into Input
+12-02-2019 21:06:54  INFO [libs.ActionsWithOurElements] : 909090was inputted into Input
+12-02-2019 21:06:54  INFO [libs.ActionsWithOurElements] : Element was clicked

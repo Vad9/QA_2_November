@@ -110,7 +110,7 @@
                 <directory>src/main</directory>
             </resource>
             <resource>
-                <directory>src/main/resources</directory>
+                <directory>src/main/java</directory>
             </resource>
         </resources>
     </build>
