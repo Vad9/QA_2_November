@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 public class ActionsWithOurElements {
     WebDriver webDriver;
@@ -35,5 +36,24 @@ public class ActionsWithOurElements {
             logger.error("Cannot work with element");
             Assert.fail("Cannot work with element");
         }
+    }
+    public boolean isElementDisplayed (WebElement element){
+        try {
+            return element.isDisplayed();       // тоже самое мы писали return webDriver.findElement(By.xpath(".//*[@class='pull-left image']")).isDisplayed();
+
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
+    public void selectTextInDD(WebElement element, String text) {
+        try{
+            Select select = new Select(element);
+            select.deselectByVisibleText(text);
+            logger.info("Text was selected in DD");
+        }catch (Exception e) {
+            logger.error("Cannot work with element");
+            Assert.fail("Cannot work with element");
+    }
     }
 }
