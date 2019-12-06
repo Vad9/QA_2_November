@@ -17,7 +17,7 @@ public class ActionsWithOurElements {
         try {
             element.clear();              // тоже самое мы писали webDriver.findElement(By.id("password")).clear();
             element.sendKeys(text);   // тоже самое мы писали  webDriver.findElement(By.id("password")).sendKeys(passWord);
-            logger.info(text + "was inputted into Input");
+            logger.info(text + " was inputted into Input");
 
         } catch (Exception e) {
             logger.error("Cannot work with element" + e);
@@ -36,4 +36,13 @@ public class ActionsWithOurElements {
             Assert.fail("Cannot work with element");
         }
     }
+    public boolean isElementDisplayed (WebElement element){
+        try {
+            return element.isDisplayed();       // тоже самое мы писали return webDriver.findElement(By.xpath(".//*[@class='pull-left image']")).isDisplayed();
+
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
 }
