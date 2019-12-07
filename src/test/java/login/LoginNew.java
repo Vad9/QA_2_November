@@ -4,6 +4,8 @@ import org.junit.Assert;
 import org.junit.Test;
 import parentTest.ParentTest;
 
+
+// Второй Тест которий ми используем для входа логин и пароль (типа коректний)
 public class LoginNew extends ParentTest {
 
     @Test

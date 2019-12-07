@@ -70,3 +70,539 @@
 12-05-2019 19:03:28  INFO [libs.ActionsWithOurElements] : Element was clicked
 12-05-2019 19:03:28  INFO [libs.ActionsWithOurElements] : Element was clicked
 12-05-2019 19:03:29  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:25:07  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:25:07  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:25:07  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:25:07  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:25:08  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:25:08  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:25:27  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:25:27  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:25:27 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:26:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:26:44  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:26:44  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:26:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:26:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:26:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:27:02  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:27:03  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:27:03 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:28:16  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:28:17  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:28:17  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:28:17  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:28:17  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:28:18  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:28:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:28:36  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:28:36 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:31:17  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:31:17  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:31:17  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:31:17  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:31:17  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:31:18  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:31:36  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:31:36  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:31:36 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:34:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:34:43  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:34:43  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:34:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:34:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:34:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:35:03  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:35:03  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:35:04 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:35:51  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:35:51  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:35:51  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:35:51  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:35:51  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:35:52  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:36:10  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:36:11  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:36:11 ERROR [libs.ActionsWithOurElements] : Cannot work with element
+12-06-2019 15:38:19  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 15:38:19  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 15:38:19  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 15:38:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:38:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:38:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:38:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 15:38:38  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 15:38:38  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 15:38:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:45:49  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 16:45:49  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 16:45:49  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 16:45:50  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:45:50  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:45:50  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:56:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 16:56:43  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 16:56:44  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 16:56:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:56:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:56:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:56:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:56:55  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 16:56:55  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 16:56:56  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:57:20  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 16:57:20  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 16:57:20  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 16:57:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:57:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:57:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:57:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 16:57:32  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 16:57:32  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 16:57:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:02:09  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:02:09  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:02:09  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:02:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:02:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:02:10  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:02:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:02:21  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 18:02:21  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:02:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:09:49  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:09:49  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:09:50  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:09:50  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:09:50  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:09:51  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:10:01  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:10:01  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 18:10:01  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:10:02  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:11:13  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:11:13  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:11:14  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:11:14  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:11:14  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:11:15  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:11:25  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:11:25  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 18:11:25  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:11:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:13:52  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:13:52  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:13:52  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:13:52  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:13:53  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:13:53  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:14:03  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:14:04  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 18:14:04  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:14:04  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:18:46  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:18:46  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:18:46  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:18:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:18:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:18:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:18:48  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:18:58 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53655}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: b8777f010f80542be9386e8101ae4e12
+*** Element info: {Using=id, value=delete}
+12-06-2019 18:20:15  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:20:15  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:20:15  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:20:16  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:20:16  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:20:16  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:20:16  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:20:27 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53738}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: d28a1539d7897377b0848872199f85a5
+*** Element info: {Using=id, value=delete}
+12-06-2019 18:22:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:22:43  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:22:43  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:22:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:22:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:22:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:22:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:22:54 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53862}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 8f2e35fd906314db217557dcf1578ec5
+*** Element info: {Using=id, value=delete}
+12-06-2019 18:25:08  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:25:08  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:25:08  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:25:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:25:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:25:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:25:19  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:25:20  INFO [libs.ActionsWithOurElements] : Vad9_spare was inputted into Input
+12-06-2019 18:25:20  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:25:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:31:13  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:31:23 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"_username"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54529}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 63a96dffe28d33d4522dc61d50b2c6cd
+*** Element info: {Using=name, value=_username}
+12-06-2019 18:32:03  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:32:10 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: Cannot locate an element using name=_username
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: driver.version: RemoteWebDriver
+12-06-2019 18:34:54  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:34:54  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:34:54  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:34:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:34:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:34:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:35:06  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:35:06  INFO [libs.ActionsWithOurElements] : Vad9spare was inputted into Input
+12-06-2019 18:35:06  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:35:06  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:32  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:36:32  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:36:32  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:36:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:44  INFO [libs.ActionsWithOurElements] : Vad9spare was inputted into Input
+12-06-2019 18:36:44  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:36:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:36:55 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55002}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 87411c9fcc6e1de9feec89e32adaea3b
+*** Element info: {Using=id, value=delete}
+12-06-2019 18:37:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:37:43  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:37:43  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:37:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:37:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:37:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:37:54  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:37:54  INFO [libs.ActionsWithOurElements] : Vad9spare was inputted into Input
+12-06-2019 18:37:54  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:37:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:38:31  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:38:31  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:38:31  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:38:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:38:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:38:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:38:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:38:43  INFO [libs.ActionsWithOurElements] : Vad9spare was inputted into Input
+12-06-2019 18:38:43  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:38:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:39:21  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:39:21  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:39:21  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:39:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:39:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:39:22  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:39:23  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:39:33 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55228}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 603d444fd505e990218ec1f60351e1fb
+*** Element info: {Using=id, value=delete}
+12-06-2019 18:57:23  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 18:57:23  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 18:57:23  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 18:57:24  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:57:24  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:57:24  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:57:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 18:57:35  INFO [libs.ActionsWithOurElements] : vad9spare was inputted into Input
+12-06-2019 18:57:35  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 18:57:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:31  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:08:31  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:08:31  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:08:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:42  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:43  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 19:08:43  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 19:08:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:43  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:08:53 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56254}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 82f9f7b2de6d872817705c8dc5d64d94
+*** Element info: {Using=id, value=delete}
+12-06-2019 19:15:34  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:15:34  INFO [libs.ActionsWithOurElements] : 123456798 was inputted into Input
+12-06-2019 19:15:34  INFO [libs.ActionsWithOurElements] : 00000 was inputted into Input
+12-06-2019 19:15:34  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:16:41  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:16:41  INFO [libs.ActionsWithOurElements] : 123456798 was inputted into Input
+12-06-2019 19:16:41  INFO [libs.ActionsWithOurElements] : 1111 was inputted into Input
+12-06-2019 19:16:41  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:32:14  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:32:15  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:32:15  INFO [libs.ActionsWithOurElements] : 906090 was inputted into Input
+12-06-2019 19:32:15  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:32:35  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:32:35  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 19:32:35  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:32:36  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:32:56  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:32:56  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 19:32:56  INFO [libs.ActionsWithOurElements] : Pass was inputted into Input
+12-06-2019 19:32:57  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:35:25  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:35:25  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:35:25  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:35:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:35:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:35:27  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:35:37  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:35:37  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 19:35:37  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 19:35:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:36:19  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:36:19  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:36:19  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:36:19  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:36:19  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:36:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:36:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:36:38  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 19:36:39  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 19:36:39  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:07  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:55:07  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:55:07  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:55:08  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:08  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:09  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:19 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58031}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 7a9154d1e4588c7fb90fba6431d9a23d
+*** Element info: {Using=id, value=delete}
+12-06-2019 19:55:54  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:55:54  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:55:54  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:55:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:55:56  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:56:06 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58096}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 3b47b00517f4aef15a9d83e42c5b4110
+*** Element info: {Using=id, value=delete}
+12-06-2019 19:57:06  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:57:06  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:57:06  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:57:07  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:57:07  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:57:07  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:57:08  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:57:18 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58174}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: c8e79cca1e3532e76eab88e26a29faec
+*** Element info: {Using=id, value=delete}
+12-06-2019 19:58:28  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 19:58:28  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 19:58:28  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 19:58:29  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:58:29  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:58:29  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:58:29  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:58:40 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58256}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 0d49d5ed1c52029cd66188aeb01f5e63
+*** Element info: {Using=id, value=delete}
+12-06-2019 19:58:42  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 19:58:52 ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"delete"}
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC17050', ip: '192.168.20.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\VADIM~1.KOR\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58256}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 0d49d5ed1c52029cd66188aeb01f5e63
+*** Element info: {Using=id, value=delete}
+12-06-2019 20:00:25  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:00:25  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:00:25  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:00:25  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:27  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:37  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:37  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 20:00:37  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 20:00:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:38  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:00:39  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:34  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:02:34  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:02:35  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:02:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:36  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:46  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:46  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 20:02:46  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 20:02:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:02:47  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:16:43  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:16:44  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:16:44  INFO [libs.ActionsWithOurElements] : 906090 was inputted into Input
+12-06-2019 20:16:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:17:04  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:17:04  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 20:17:04  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:17:05  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:17:25  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:17:25  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 20:17:25  INFO [libs.ActionsWithOurElements] : Pass was inputted into Input
+12-06-2019 20:17:25  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:17:54  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:17:54  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:17:54  INFO [libs.ActionsWithOurElements] : 906090 was inputted into Input
+12-06-2019 20:17:54  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:18:15  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:18:15  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:18:15  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:18:15  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:18:26  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:18:26  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 20:18:26  INFO [libs.ActionsWithOurElements] : Pass was inputted into Input
+12-06-2019 20:18:26  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:46:53  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:46:53  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:46:53  INFO [libs.ActionsWithOurElements] : 906090 was inputted into Input
+12-06-2019 20:46:53  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:47:14  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:47:14  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 20:47:14  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:47:14  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:47:34  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:47:35  INFO [libs.ActionsWithOurElements] : Login was inputted into Input
+12-06-2019 20:47:35  INFO [libs.ActionsWithOurElements] : Pass was inputted into Input
+12-06-2019 20:47:35  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:51:20  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:51:20  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:51:20  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:51:20  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:33  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:58:33  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:58:33  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:58:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:44  INFO [pages.LoginPage] : Login page was opened
+12-06-2019 20:58:44  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-06-2019 20:58:44  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-06-2019 20:58:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:55  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:55  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-06-2019 20:58:56  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-06-2019 20:58:56  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:56  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-06-2019 20:58:57  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:22  INFO [pages.LoginPage] : Login page was opened
+12-07-2019 15:58:22  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-07-2019 15:58:22  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-07-2019 15:58:22  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:33  INFO [pages.LoginPage] : Login page was opened
+12-07-2019 15:58:33  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-07-2019 15:58:33  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-07-2019 15:58:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:33  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:34  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:44  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:44  INFO [libs.ActionsWithOurElements] : wad9spare was inputted into Input
+12-07-2019 15:58:44  INFO [libs.ActionsWithOurElements] : Text was selected in DD
+12-07-2019 15:58:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-07-2019 15:58:46  INFO [libs.ActionsWithOurElements] : Element was clicked

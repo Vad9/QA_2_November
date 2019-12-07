@@ -1,13 +1,15 @@
 package spares;
 
+import org.junit.After;
+import org.junit.Assert;
 import org.junit.Test;
 import parentTest.ParentTest;
 
 
 
-// Второй Тест создаем деталь и ...
+// Третій Тест создаем деталь и ...
 public class AddNewSpare extends ParentTest {
-    String spareName = "Vad9_spare";
+    String spareName = "wad9spare";
 
     @Test
     public void addNewSpare (){
@@ -16,11 +18,21 @@ public class AddNewSpare extends ParentTest {
         homePage.clickOnMenuDictionary();
         homePage.clickOnSubMenuSpare();
         sparePage.checkUrl();
-        sparePage.checkAndDeleteSpare(spareName);
+        sparePage.deletingSpareUntilPresent(spareName);   // удаление всех одинкових запчастей
+        //sparePage.checkAndDeleteSpare(spareName);   // удаление 1 запчасти
         sparePage.clickOnAddButton();
         editSparePage.enterSpareNameInToInput(spareName);
-        editSparePage.selectSpareTypeInDD("Механика");
+        editSparePage.selectSpareTypeInDD("Механикa");
         editSparePage.clickOnButtonCreate();
+
+        checkExpectedResult("Spare was not added to list", sparePage.isSpareInList(spareName));
+
     }
+
+    @After
+    public void spareDeleting(){
+        sparePage.deletingSpareUntilPresent(spareName);
+    }
+
 
 }
