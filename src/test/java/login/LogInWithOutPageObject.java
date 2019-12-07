@@ -11,7 +11,7 @@ import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 
-// Первый Тест для входа логин и пароль
+// Первый Тест для входа логин и пароль который все содержит (типа не коректний)
 public class LogInWithOutPageObject {
     WebDriver webDriver;
 
