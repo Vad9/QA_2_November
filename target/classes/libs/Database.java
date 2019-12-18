@@ -217,7 +217,7 @@ public class Database {
         }
 
         stm.close();
-        //System.out.println(query);
+        System.out.println(query);
         return rowCount;
     }
 
