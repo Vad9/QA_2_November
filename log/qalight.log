@@ -1,0 +1,348 @@
+2019-16-12 18:59:00   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 18:59:00   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 18:59:00   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 18:59:01   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:06:01   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:06:02   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:06:02   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:06:02   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:06:30   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:06:30   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:06:31   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:06:32   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:07:17   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:07:17   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:07:17   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:07:18   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:07:56   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:07:56   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:07:56   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:07:56   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:32:15   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:32:15   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:32:15   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:33:21   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:33:21   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:35:15   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:35:15   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:35:42   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:35:42   INFO [testDB.TestDB] : [8, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:42:18   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [8, 7, qwerty, pass]
+2019-16-12 19:42:18   INFO [testDB.TestDB] : [9, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:42:43   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [8, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [9, 7, qwerty, pass]
+2019-16-12 19:42:43   INFO [testDB.TestDB] : [10, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:44:01   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [8, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [9, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [10, 7, qwerty, pass]
+2019-16-12 19:44:01   INFO [testDB.TestDB] : [11, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [libs.Database] : jdbc:mysql://185.25.118.54:3306/old_qa
+2019-16-12 19:45:25   INFO [testDB.TestDB] : MySql DB connected
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [, idNumber, login, passWord]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [1, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [2, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [3, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [4, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [5, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [6, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [7, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [8, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [9, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [10, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [11, 7, qwerty, pass]
+2019-16-12 19:45:25   INFO [testDB.TestDB] : [12, 7, qwerty, pass]
+2019-16-12 19:48:32   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:48:32   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:48:32   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:48:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-16-12 19:55:45   INFO [pages.LoginPage] : Login page was opened
+2019-16-12 19:55:45   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-16-12 19:55:45   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-16-12 19:55:45   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:11:27   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:11:27   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:11:27   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:11:27   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:14:33   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:14:33   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:14:33   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:14:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:16:08   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:16:08   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:16:08   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:16:08   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:17:36   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:17:36   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:17:36   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:17:37   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:18:16   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:18:16   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:18:17   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:18:17   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:18:56   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:18:56   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:18:56   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:18:56   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:21:29   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:21:29   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:21:29   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:21:30   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:24:05   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:24:05   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:24:05   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:24:05   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:26:16   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:26:16   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:26:16   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:26:16   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:28:23   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:28:23   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:28:24   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:28:24   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:42:58   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:42:58   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:42:58   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:42:58   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 18:45:24   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 18:45:24   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 18:45:24   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 18:45:25   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:02:18   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:02:18   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:02:18   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:02:19   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:04:03   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:04:03   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:04:03   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:04:04   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:05:35   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:05:36   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:05:36   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:05:36   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:08:24   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:08:24   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:08:25   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:08:25   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:08:35   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:08:35   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:08:35   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:08:36   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:09:29   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:09:29   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:09:29   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:09:30   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:09:40   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:09:40   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:09:40   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:09:41   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:10:36   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:10:36   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:10:36   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:10:36   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:11:24   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:11:24   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:11:25   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:11:25   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-17-12 19:11:36   INFO [pages.LoginPage] : Login page was opened
+2019-17-12 19:11:36   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-17-12 19:11:36   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-17-12 19:11:36   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 10:22:28   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 10:22:28   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 10:22:28   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 10:22:29   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 10:23:32   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 10:23:33   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 10:23:33   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 10:23:33   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 10:24:05   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 10:24:05   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 10:24:05   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 10:24:05   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 10:27:30   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 10:27:30   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 10:27:30   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 10:27:30   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 10:27:41   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 10:27:41   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 10:27:41   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 10:27:41   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:45:31   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:45:31   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:45:31   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:45:32   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:47:27   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:47:27   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:47:27   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:47:28   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:47:39   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:47:39   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:47:39   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:47:39   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:49:35   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:49:35   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:49:35   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:49:35   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:50:52   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:50:52   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:50:52   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:50:53   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:52:27   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:52:27   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:52:27   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:52:27   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:52:38   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:52:38   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:52:38   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:52:39   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:53:38   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:53:38   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:53:38   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:53:38   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:53:49   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:53:49   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:53:49   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:53:49   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:54:54   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:54:54   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:54:54   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:54:55   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:55:05   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:55:05   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:55:05   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:55:06   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:55:46   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:55:46   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:55:46   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:55:46   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:55:57   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:55:57   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:55:57   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:55:57   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:58:27   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:58:27   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:58:27   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:58:27   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 11:58:38   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 11:58:38   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 11:58:38   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 11:58:39   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:03:11   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:03:11   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:03:11   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:03:12   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:03:23   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:03:23   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:03:23   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:03:23   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:05:53   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:05:53   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:05:53   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:05:54   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:06:04   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:06:04   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:06:04   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:06:05   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:08:55   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:08:55   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:08:55   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:08:55   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:09:06   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:09:06   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:09:06   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:09:07   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:15:56   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:15:56   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:15:56   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:15:57   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:16:07   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:16:07   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:16:07   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:16:08   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:18:53   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:18:53   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:18:53   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:18:53   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:19:04   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:19:04   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:19:04   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:19:05   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:19:42   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:19:42   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:19:42   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:19:42   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:19:53   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:19:53   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:19:53   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:19:54   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:50:59   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:50:59   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:50:59   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:50:59   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:51:59   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:52:00   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:52:00   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:52:00   INFO [libs.ActionsWithOurElements] : Element was clicked
+2019-18-12 12:52:11   INFO [pages.LoginPage] : Login page was opened
+2019-18-12 12:52:11   INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+2019-18-12 12:52:11   INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+2019-18-12 12:52:11   INFO [libs.ActionsWithOurElements] : Element was clicked

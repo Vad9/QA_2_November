@@ -1,0 +1,12 @@
+login\LogInWithOutPageObject.class
+login\UnValidLoginWithParameters.class
+parentTest\ParentTest.class
+testDB\TestDB.class
+restTests\RestTestPrivateBank.class
+login\LoginNew.class
+restTests\RegistrationCustomerSuccessfulTest.class
+login\LoginNewWithDataFromExcel.class
+login\UnValidLoginWithParametersFromExcel.class
+mainPack\AppTest.class
+suits\SmokeSuit.class
+spares\AddNewSpare.class
