@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC17050",
+    "children" : [ {
+      "name" : "15244@PC17050.pool-1-thread-1(15)",
+      "children" : [ {
+        "name" : "validLogin",
+        "uid" : "410d5dedb80d544c",
+        "parentUid" : "e52762eed469375c11c9bee1b4a49430",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576694951560,
+          "stop" : 1576694962654,
+          "duration" : 11094
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "unValidLogin",
+        "uid" : "3a72c2ad78ecb8e9",
+        "parentUid" : "e52762eed469375c11c9bee1b4a49430",
+        "status" : "failed",
+        "time" : {
+          "start" : 1576694939179,
+          "stop" : 1576694951429,
+          "duration" : 12250
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e52762eed469375c11c9bee1b4a49430"
+    } ],
+    "uid" : "c31ef1cb8dc4102c85bc8dbbafa66451"
+  } ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "410d5dedb80d544c",
+  "name" : "validLogin",
+  "fullName" : "login.LoginNew.validLogin",
+  "historyId" : "c799cc152414ab31dfcd9f906d96a1e0",
+  "time" : {
+    "start" : 1576694951560,
+    "stop" : 1576694962654,
+    "duration" : 11094
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "login"
+  }, {
+    "name" : "testClass",
+    "value" : "login.LoginNew"
+  }, {
+    "name" : "testMethod",
+    "value" : "validLogin"
+  }, {
+    "name" : "suite",
+    "value" : "login.LoginNew"
+  }, {
+    "name" : "host",
+    "value" : "PC17050"
+  }, {
+    "name" : "thread",
+    "value" : "15244@PC17050.pool-1-thread-1(15)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "410d5dedb80d544c.json",
+  "parameterValues" : [ ]
+}

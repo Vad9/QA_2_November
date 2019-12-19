@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Avatar should not be present expected:<false> but was:<true>",
+      "children" : [ {
+        "name" : "unValidLogin",
+        "uid" : "3a72c2ad78ecb8e9",
+        "parentUid" : "359df6e72d789b3eddfdc36fa76f2165",
+        "status" : "failed",
+        "time" : {
+          "start" : 1576694939179,
+          "stop" : 1576694951429,
+          "duration" : 12250
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "359df6e72d789b3eddfdc36fa76f2165"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

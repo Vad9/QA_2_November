@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: login.LoginNew
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.459 s <<< FAILURE! - in login.LoginNew
-unValidLogin(login.LoginNew)  Time elapsed: 12.308 s  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.607 s <<< FAILURE! - in login.LoginNew
+unValidLogin(login.LoginNew)  Time elapsed: 12.385 s  <<< FAILURE!
 java.lang.AssertionError: Avatar should not be present expected:<false> but was:<true>
 	at login.LoginNew.unValidLogin(LoginNew.java:32)
 

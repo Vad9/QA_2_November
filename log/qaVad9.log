@@ -2127,3 +2127,51 @@ Session ID: 0d49d5ed1c52029cd66188aeb01f5e63
 12-18-2019 14:22:31  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
 12-18-2019 14:22:31  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
 12-18-2019 14:22:31  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 19:37:20  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 19:37:20  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 19:37:20  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 19:37:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 19:37:31  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 19:37:31  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 19:37:31  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 19:37:32  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 19:56:22  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 19:56:22  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 19:56:22  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 19:56:23  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 19:56:33  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 19:56:33  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 19:56:34  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 19:56:34  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 19:59:17  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 19:59:17  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 19:59:18  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 19:59:18  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:37:31  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:37:31  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:37:31  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:37:31  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:37:42  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:37:42  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:37:42  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:37:42  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:42:36  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:42:36  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:42:36  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:42:37  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:44:44  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:44:44  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:44:44  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:44:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:44:55  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:44:55  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:44:55  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:44:56  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:49:10  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:49:10  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:49:10  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:49:10  INFO [libs.ActionsWithOurElements] : Element was clicked
+12-18-2019 20:49:21  INFO [pages.LoginPage] : Login page was opened
+12-18-2019 20:49:21  INFO [libs.ActionsWithOurElements] : Student was inputted into Input
+12-18-2019 20:49:21  INFO [libs.ActionsWithOurElements] : 909090 was inputted into Input
+12-18-2019 20:49:22  INFO [libs.ActionsWithOurElements] : Element was clicked

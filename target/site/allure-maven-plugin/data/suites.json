@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "login.LoginNew",
+    "children" : [ {
+      "name" : "unValidLogin",
+      "uid" : "3a72c2ad78ecb8e9",
+      "parentUid" : "fcaca7094e4a76a0ddc64d1586b378c6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1576694939179,
+        "stop" : 1576694951429,
+        "duration" : 12250
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "validLogin",
+      "uid" : "410d5dedb80d544c",
+      "parentUid" : "fcaca7094e4a76a0ddc64d1586b378c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576694951560,
+        "stop" : 1576694962654,
+        "duration" : 11094
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fcaca7094e4a76a0ddc64d1586b378c6"
+  } ]
+}
