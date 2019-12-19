@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "unValidLogin",
+    "uid" : "3a72c2ad78ecb8e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1576694939179,
+      "stop" : 1576694951429,
+      "duration" : 12250
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "validLogin",
+    "uid" : "410d5dedb80d544c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1576694951560,
+      "stop" : 1576694962654,
+      "duration" : 11094
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

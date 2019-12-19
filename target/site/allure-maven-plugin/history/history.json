@@ -1,0 +1,41 @@
+{
+  "64f051a29994455fb309cc715bb724f0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a72c2ad78ecb8e9",
+      "status" : "failed",
+      "statusDetails" : "Avatar should not be present expected:<false> but was:<true>",
+      "time" : {
+        "start" : 1576694939179,
+        "stop" : 1576694951429,
+        "duration" : 12250
+      }
+    } ]
+  },
+  "c799cc152414ab31dfcd9f906d96a1e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "410d5dedb80d544c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576694951560,
+        "stop" : 1576694962654,
+        "duration" : 11094
+      }
+    } ]
+  }
+}
